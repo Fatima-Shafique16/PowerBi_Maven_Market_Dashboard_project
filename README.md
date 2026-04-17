@@ -1,5 +1,5 @@
 
-📊 Marven Market Analysis Dashboard (Power BI)
+#📊 Marven Market Analysis Dashboard (Power BI)
 📌 Project Title
 
 Marven Market Analysis Dashboard using Power BI
@@ -57,6 +57,7 @@ Slicers → Region, Month, Year filters
 
 🖼️ Screenshots
 Dashboard Preview
+https://github.com/Fatima-Shafique16/PowerBi_Maven_Market_Dashboard_project/blob/main/marven%20market%20analysis%201.png
 
 
 📎 How to Use
@@ -74,4 +75,5 @@ Feel free to fork this repository and improve the dashboard with new insights or
 If you have any questions or suggestions, feel free to connect!
 
 ⭐ If you found this project useful, consider giving it a star!
+
 FATIMA SHAFIQUE | Data Analyst | PowerBi 

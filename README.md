@@ -57,8 +57,11 @@ Slicers → Region, Month, Year filters
 
 🖼️ Screenshots
 Dashboard Preview
-https://github.com/Fatima-Shafique16/PowerBi_Maven_Market_Dashboard_project/blob/main/marven%20market%20analysis%201.png
 
+Sales Dashboard:
+https://github.com/Fatima-Shafique16/PowerBi_Maven_Market_Dashboard_project/blob/main/marven%20market%20analysis%201.png
+Order Overview:
+https://github.com/Fatima-Shafique16/PowerBi_Maven_Market_Dashboard_project/blob/main/marven_order_ana%3Bysis_dashboard.png
 
 📎 How to Use
 Download the .pbix file from this repository
